@@ -1,6 +1,6 @@
 ---
 title: "FIRST WRITE by yueting"
-date: YYYY-MM-DD
+date: 2024-10-30
 ---
 nohup hicConvertFormat -m 1-C2C12-DHE-1.allValidPairs.hic --inputFormat hic --outputFormat h5 -r 100000 -o 1-C2C12-DHE-1_100k.h5 > hic_h5.log 2>&1 &
 出现报错ERROR:hicexplorer.hicConvertFormat:The export of a hic file is only possible to a cool file.
